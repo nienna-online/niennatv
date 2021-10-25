@@ -1,2 +1,5 @@
-# niennatv
+# NiennaTV
 Colección de canales de IPTV disponibles públicamente de todo el mundo. 
+
+# Legal
+No se almacenan archivos de video en este repositorio. El repositorio simplemente contiene enlaces enviados por los usuario a las URLs de transmisión de video disponibles públicamente, que según nuestro leal saber y entender, los titulares de los derechos de autor se han hecho públicamente de manera intencional. Si alguno de los enlaces de estas listas de reproducción infringe sus derechos como titular de los derechos de autor, puede eliminarlos enviando una solicitud de extracción. Sin embargo, tenga en cuenta que no tenemos control sobre el destino del enlace, y simplemente eliminar el enlace de la lista de reproducción no eliminará su contenido de la web. Tenga en cuenta que el enlace no infringe directamente los derechos de autor porque no se realiza ninguna copia en el sitio que proporciona el enlace y, por lo tanto, esto no es una razón válida para enviar un aviso de DMCA a GitHub. Para eliminar este contenido de la web, debe comunicarse con el proveedor de alojamiento web que realmente aloja el contenido ( no con GitHub, ni con los encargados del mantenimiento de este repositorio).
