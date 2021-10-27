@@ -35,6 +35,8 @@ languages/deu.m3u
 languages/ell.m3u
 "#EXTINF:-1,English
 languages/eng.m3u
+"#EXTINF:-1,Español
+languages/spa.m3u
 "#EXTINF:-1,Estonian
 languages/est.m3u
 "#EXTINF:-1,Faroese
@@ -135,8 +137,6 @@ languages/slk.m3u
 languages/slv.m3u
 "#EXTINF:-1,Somali
 languages/som.m3u
-"#EXTINF:-1,Spanish; Castilian
-languages/spa.m3u
 "#EXTINF:-1,Albanian
 languages/sqi.m3u
 "#EXTINF:-1,Serbian
