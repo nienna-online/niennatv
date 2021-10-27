@@ -19,7 +19,7 @@ http://live.cdn.comteco.com.bo/comgo/0206/index.m3u8
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PAT.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Red_pat_new.jpg" group-title="",PAT (OP2)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/7edb0d_77859d5a045049d28030108c161ce857~mv2.png/v1/fill/w_225,h_225,al_c/7edb0d_77859d5a045049d28030108c161ce857~mv2.png" group-title="",REC Online (HD)
+#EXTINF:-1 tvg-id="" tvg-country="BO" tvg-language="Spanish" tvg-logo="" group-title="",REC Online (HD)
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="",Bolivision STA CRZ (HD)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
