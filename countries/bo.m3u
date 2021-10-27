@@ -7,9 +7,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 http://live.cdn.comteco.com.bo/comgo/0208/index.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="",Unitel La Paz(HD)
 http://95.211.214.198:8181/tuver/evento1/index.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="",Red STA CRZ (HD)
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="",Red UNO STA CRZ (HD)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="",Red STA CRZ (SD)
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="",Red UNO STA CRZ (SD)
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="",Red UNO La Paz (HD)
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
