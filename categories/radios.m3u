@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF: -1group-title="Radio", Radio Años 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Años 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF: -1group-title="Radio", Radio Años 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Años 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF: -1group-title="Radio", Radio Eletronica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Fiesta
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF: -1group-title="Radio", Radio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF: -1group-title="Radio", Radio Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF: -1group-title="Radio", Radio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Musica Clasica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF: -1group-title="Radio", Radio New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF: -1group-title="Radio", Radio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF: -1group-title="Radio", Radio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF: -1group-title="Radio", Radio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF: -1group-title="Radio", Radio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Romanticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Sertanejo Romantico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF: -1group-title="Radio", Radio Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
