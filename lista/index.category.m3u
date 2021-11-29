@@ -41,6 +41,8 @@ categories/news.m3u
 categories/outdoor.m3u
 #EXTINF:-1,Relax
 categories/relax.m3u
+#EXTINF:-1,Radios
+categories/radios.m3u
 #EXTINF:-1,Religious
 categories/religious.m3u
 #EXTINF:-1,Series
