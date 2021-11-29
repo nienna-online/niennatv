@@ -23,22 +23,20 @@ languages/bul.m3u
 languages/cat.m3u
 "#EXTINF:-1,Czech
 languages/ces.m3u
-"#EXTINF:-1,Mandarin
-languages/cmn.m3u
 "#EXTINF:-1,cnr
 languages/cnr.m3u
 "#EXTINF:-1,Danish
 languages/dan.m3u
 "#EXTINF:-1,German
 languages/deu.m3u
-"#EXTINF:-1,Greek Modern
-languages/ell.m3u
 "#EXTINF:-1,English
 languages/eng.m3u
 "#EXTINF:-1,Español
 languages/spa.m3u
 "#EXTINF:-1,Estonian
 languages/est.m3u
+"#EXTINF:-1,Greek Modern
+languages/ell.m3u
 "#EXTINF:-1,Faroese
 languages/fao.m3u
 "#EXTINF:-1,Persian
@@ -97,6 +95,8 @@ languages/lit.m3u
 languages/ltz.m3u
 "#EXTINF:-1,Malayalam
 languages/mal.m3u
+"#EXTINF:-1,Mandarin
+languages/cmn.m3u
 "#EXTINF:-1,Marathi
 languages/mar.m3u
 "#EXTINF:-1,Macedonian
