@@ -3,8 +3,6 @@
 categories/auto.m3u
 #EXTINF:-1,Animacion
 categories/animation.m3u
-#EXTINF:-1,Negocios
-categories/business.m3u
 #EXTINF:-1,Clasico
 categories/classic.m3u
 #EXTINF:-1,Comedia
@@ -45,6 +43,8 @@ categories/movies.m3u
 categories/music.m3u
 #EXTINF:-1,Noticias
 categories/news.m3u
+#EXTINF:-1,Negocios
+categories/business.m3u
 #EXTINF:-1,Outdoor
 categories/outdoor.m3u
 #EXTINF:-1,Relax
