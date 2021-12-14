@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Auto
+categories/247.m3u
+#EXTINF:-1,Auto
 categories/auto.m3u
 #EXTINF:-1,Animacion
 categories/animation.m3u
