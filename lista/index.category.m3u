@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Auto
+#EXTINF:-1,24/7
 categories/247.m3u
 #EXTINF:-1,Auto
 categories/auto.m3u
@@ -13,7 +13,7 @@ categories/comedy.m3u
 categories/cooking.m3u
 #EXTINF:-1,Cultura
 categories/culture.m3u
-#EXTINF:-1,ciencia
+#EXTINF:-1,Ciencia
 categories/science.m3u
 #EXTINF:-1,Compras
 categories/shop.m3u
