@@ -1,0 +1,3 @@
+#EXTM3U 
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="" group-title="24/7",Los Simpson 24/7 
+http://srv5.zcast.com.br/simpsons/simpsons/chunklist.m3u8
